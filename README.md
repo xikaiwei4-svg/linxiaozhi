@@ -236,14 +236,6 @@ linyeai/
 - 项目地址：https://github.com/xikaiwei4-svg/linyeai
 - 问题反馈：https://github.com/xikaiwei4-svg/linyeai/issues
 
-## 🙏 致谢
 
-- [React](https://reactjs.org/)
-- [Ant Design](https://ant.design/)
-- [Node.js](https://nodejs.org/)
-- [MongoDB](https://www.mongodb.com/)
-- [OpenAI](https://openai.com/)
-
----
 
 ⭐ 如果这个项目对你有帮助，请给我们一个Star！
