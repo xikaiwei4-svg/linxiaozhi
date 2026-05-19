@@ -111,12 +111,6 @@ npm run build
 npm start
 ```
 
-### 访问应用
-
-- 前端地址：http://localhost:3000
-- 后端API：http://localhost:3000/api
-- 健康检查：http://localhost:3000/health
-
 ## 📁 项目结构
 
 ```
